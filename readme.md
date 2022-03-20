@@ -4,7 +4,7 @@
 
 rgbetween is a compact JavaScript package for creating colormaps using RGB color interpolation.
 
-If more advanced features are needed, the package [culuri](https://github.com/Evercoder/culori) is recommended.
+If more advanced features are needed, the package [culori](https://github.com/Evercoder/culori) is recommended.
 
 ## Installation
 The module is available on npm:
@@ -28,7 +28,7 @@ console.log(cmap.evaluate(0.5)); // Color halfway between red and blue
 ```
 
 <p align="center">
-    <img src="./docs/img/red-blue.png" style="display:block;max-width:70%;width:750px"></img>
+    <img src="https://raw.githubusercontent.com/mathiasisaksen/rgbetween/main/docs/img/red-blue.png" style="display:block;max-width:70%;width:750px"></img>
 </p>
 
 ### **Custom stops:**
@@ -46,7 +46,7 @@ console.log(cmap.evaluate(0.05)); // Prints #000083
 ```
 
 <p align="center">
-    <img src="./docs/img/jet.png" style="display:block;max-width:70%;width:750px"></img>
+    <img src="https://raw.githubusercontent.com/mathiasisaksen/rgbetween/main/docs/img/jet.png" style="display:block;max-width:70%;width:750px"></img>
 </p>
 
 ### **Custom stops and transparency:**
@@ -70,7 +70,7 @@ cmap.setEasing(0.2);
 ```
 
 <p align="center">
-    <img src="./docs/img/transparent.png" style="display:block;max-width:70%;width:750px"></img>
+    <img src="https://raw.githubusercontent.com/mathiasisaksen/rgbetween/main/docs/img/transparent.png" style="display:block;max-width:70%;width:750px"></img>
 </p>
 
 ## API

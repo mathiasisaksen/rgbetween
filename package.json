@@ -1,6 +1,6 @@
 {
   "name": "rgbetween",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lightweight colormaps using RGB color interpolation.",
   "keywords": [
     "color",
