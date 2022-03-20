@@ -1,11 +1,25 @@
 {
   "name": "rgbetween",
   "version": "0.0.1",
-  "description": "",
+  "description": "Lightweight colormaps using RGB color interpolation.",
+  "keywords": [
+    "color",
+    "colormap",
+    "rgb"
+  ],
+  "homepage": "https://github.com/mathiasisaksen/rgbetween",
+  "bugs": "https://github.com/mathiasisaksen/rgbetween/issues",
+  "license": "MIT",
+  "author": "Mathias Isaksen",
   "main": "./src/rgbetween.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasisaksen/rgbetween.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "files": [
+    "/src"
+  ]
 }
